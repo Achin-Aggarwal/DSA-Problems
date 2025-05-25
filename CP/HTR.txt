@@ -1,0 +1,2 @@
+g++ -g demo.cpp -o a.out
+./a.out < input.txt > output.txt
