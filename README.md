@@ -1,3 +1,3 @@
 # DSA-Problems
 
-1. Patterns
+1. Patterns Problems
