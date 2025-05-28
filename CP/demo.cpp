@@ -1,16 +1,18 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-void print(int n, int i){
-    if (n>i){
-        return;
+int fib(int n){
+    if (n<=1){
+        return n ;
     }
     
-    print(n+1,i);
-    cout<<n<< endl;
+    return fib(n-1)+fib(n-2);
+    
 }
 int main(){
     int n;
     cin>>n;
-    print(1,n);
+    
+    cout << fib(n);
+
 }
