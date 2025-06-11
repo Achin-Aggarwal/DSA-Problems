@@ -1,1 +1,6 @@
-3
+Maximum Element : 10
+Minimum Element : 1
+Maximum Frequent Element : 10
+Frequency : 3
+Minimum Frequent Element : 1
+Frequency : 1
